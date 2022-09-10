@@ -1,3 +1,2 @@
 # CIS276DA
-Database sec - AAS 
-fall electives
+Database sec - AAS - fall electives
